@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/threejs_metropolis_livingroom.unity
+  isLoaded: 1
+  isActive: 1

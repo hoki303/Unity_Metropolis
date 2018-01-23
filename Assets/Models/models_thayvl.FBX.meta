@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 68cac398e798807479c71b85cf9f2a0a
+timeCreated: 1516589110
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: thayvl_Armchair 1
+    100004: thayvl_Armchair 2
+    100006: thayvl_Armchair 3
+    100008: thayvl_Ban pk 1
+    100010: thayvl_Ban pk 2
+    100012: thayvl_Ban pk 3
+    100014: thayvl_Bench 1
+    100016: thayvl_Bench 2
+    100018: thayvl_Bench 3
+    100020: thayvl_Da' ke TV 1
+    100022: thayvl_Da' ke TV 2
+    100024: thayvl_Da' ke TV 3
+    100026: thayvl_Den cay 2
+    100028: thayvl_Den cay 3
+    100030: thayvl_Sofa 1
+    100032: thayvl_Sofa 2
+    100034: thayvl_Sofa 3
+    100036: thayvl_Den cay 1
+    100038: cMat_Armchair 1
+    100040: cMat_Armchair 2
+    100042: cMat_Armchair 3
+    100044: cMat_Ban pk 1
+    100046: cMat_Ban pk 2
+    100048: cMat_Ban pk 3
+    100050: cMat_Bench 1
+    100052: cMat_Bench 2
+    100054: cMat_Bench 3
+    100056: cMat_Da' ke TV 1
+    100058: cMat_Da' ke TV 2
+    100060: cMat_Da' ke TV 3
+    100062: cMat_Den cay 1
+    100064: cMat_Den cay 2
+    100066: cMat_Den cay 3
+    100068: cMat_Sofa 1
+    100070: cMat_Sofa 2
+    100072: cMat_Sofa 3
+    400000: //RootNode
+    400002: thayvl_Armchair 1
+    400004: thayvl_Armchair 2
+    400006: thayvl_Armchair 3
+    400008: thayvl_Ban pk 1
+    400010: thayvl_Ban pk 2
+    400012: thayvl_Ban pk 3
+    400014: thayvl_Bench 1
+    400016: thayvl_Bench 2
+    400018: thayvl_Bench 3
+    400020: thayvl_Da' ke TV 1
+    400022: thayvl_Da' ke TV 2
+    400024: thayvl_Da' ke TV 3
+    400026: thayvl_Den cay 2
+    400028: thayvl_Den cay 3
+    400030: thayvl_Sofa 1
+    400032: thayvl_Sofa 2
+    400034: thayvl_Sofa 3
+    400036: thayvl_Den cay 1
+    400038: cMat_Armchair 1
+    400040: cMat_Armchair 2
+    400042: cMat_Armchair 3
+    400044: cMat_Ban pk 1
+    400046: cMat_Ban pk 2
+    400048: cMat_Ban pk 3
+    400050: cMat_Bench 1
+    400052: cMat_Bench 2
+    400054: cMat_Bench 3
+    400056: cMat_Da' ke TV 1
+    400058: cMat_Da' ke TV 2
+    400060: cMat_Da' ke TV 3
+    400062: cMat_Den cay 1
+    400064: cMat_Den cay 2
+    400066: cMat_Den cay 3
+    400068: cMat_Sofa 1
+    400070: cMat_Sofa 2
+    400072: cMat_Sofa 3
+    2300000: thayvl_Armchair 1
+    2300002: thayvl_Armchair 2
+    2300004: thayvl_Armchair 3
+    2300006: thayvl_Ban pk 1
+    2300008: thayvl_Ban pk 2
+    2300010: thayvl_Ban pk 3
+    2300012: thayvl_Bench 1
+    2300014: thayvl_Bench 2
+    2300016: thayvl_Bench 3
+    2300018: thayvl_Da' ke TV 1
+    2300020: thayvl_Da' ke TV 2
+    2300022: thayvl_Da' ke TV 3
+    2300024: thayvl_Den cay 2
+    2300026: thayvl_Den cay 3
+    2300028: thayvl_Sofa 1
+    2300030: thayvl_Sofa 2
+    2300032: thayvl_Sofa 3
+    2300034: thayvl_Den cay 1
+    2300036: cMat_Armchair 1
+    2300038: cMat_Armchair 2
+    2300040: cMat_Armchair 3
+    2300042: cMat_Ban pk 1
+    2300044: cMat_Ban pk 2
+    2300046: cMat_Ban pk 3
+    2300048: cMat_Bench 1
+    2300050: cMat_Bench 2
+    2300052: cMat_Bench 3
+    2300054: cMat_Da' ke TV 1
+    2300056: cMat_Da' ke TV 2
+    2300058: cMat_Da' ke TV 3
+    2300060: cMat_Den cay 1
+    2300062: cMat_Den cay 2
+    2300064: cMat_Den cay 3
+    2300066: cMat_Sofa 1
+    2300068: cMat_Sofa 2
+    2300070: cMat_Sofa 3
+    3300000: thayvl_Armchair 1
+    3300002: thayvl_Armchair 2
+    3300004: thayvl_Armchair 3
+    3300006: thayvl_Ban pk 1
+    3300008: thayvl_Ban pk 2
+    3300010: thayvl_Ban pk 3
+    3300012: thayvl_Bench 1
+    3300014: thayvl_Bench 2
+    3300016: thayvl_Bench 3
+    3300018: thayvl_Da' ke TV 1
+    3300020: thayvl_Da' ke TV 2
+    3300022: thayvl_Da' ke TV 3
+    3300024: thayvl_Den cay 2
+    3300026: thayvl_Den cay 3
+    3300028: thayvl_Sofa 1
+    3300030: thayvl_Sofa 2
+    3300032: thayvl_Sofa 3
+    3300034: thayvl_Den cay 1
+    3300036: cMat_Armchair 1
+    3300038: cMat_Armchair 2
+    3300040: cMat_Armchair 3
+    3300042: cMat_Ban pk 1
+    3300044: cMat_Ban pk 2
+    3300046: cMat_Ban pk 3
+    3300048: cMat_Bench 1
+    3300050: cMat_Bench 2
+    3300052: cMat_Bench 3
+    3300054: cMat_Da' ke TV 1
+    3300056: cMat_Da' ke TV 2
+    3300058: cMat_Da' ke TV 3
+    3300060: cMat_Den cay 1
+    3300062: cMat_Den cay 2
+    3300064: cMat_Den cay 3
+    3300066: cMat_Sofa 1
+    3300068: cMat_Sofa 2
+    3300070: cMat_Sofa 3
+    4300000: thayvl_Ban pk 1
+    4300002: thayvl_Da' ke TV 1
+    4300004: thayvl_Armchair 1
+    4300006: thayvl_Bench 1
+    4300008: thayvl_Sofa 1
+    4300010: thayvl_Sofa 2
+    4300012: thayvl_Sofa 3
+    4300014: thayvl_Den cay 2
+    4300016: thayvl_Den cay 3
+    4300018: thayvl_Ban pk 2
+    4300020: thayvl_Ban pk 3
+    4300022: thayvl_Armchair 2
+    4300024: thayvl_Armchair 3
+    4300026: thayvl_Bench 2
+    4300028: thayvl_Bench 3
+    4300030: thayvl_Da' ke TV 2
+    4300032: thayvl_Da' ke TV 3
+    4300034: thayvl_Den cay 1
+    4300036: cMat_Ban pk 1
+    4300038: cMat_Da' ke TV 1
+    4300040: cMat_Armchair 1
+    4300042: cMat_Bench 1
+    4300044: cMat_Den cay 1
+    4300046: cMat_Sofa 1
+    4300048: cMat_Sofa 2
+    4300050: cMat_Sofa 3
+    4300052: cMat_Den cay 2
+    4300054: cMat_Den cay 3
+    4300056: cMat_Ban pk 2
+    4300058: cMat_Ban pk 3
+    4300060: cMat_Bench 2
+    4300062: cMat_Bench 3
+    4300064: cMat_Armchair 2
+    4300066: cMat_Armchair 3
+    4300068: cMat_Da' ke TV 2
+    4300070: cMat_Da' ke TV 3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

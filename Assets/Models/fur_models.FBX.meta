@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: bea6636055e19894290ebdfced12a3da
+timeCreated: 1516612415
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: fur_Ban
+    100002: fur_Ban001
+    100004: fur_Bat_LOD001
+    100006: fur_minimal deco1
+    100008: //RootNode
+    100010: fur_pool chair 001
+    100012: fur_pool chair 002
+    100014: fur_pool table
+    100016: fur_Rem trong 1_LOD001
+    100018: fur_Rem1_LOD001
+    100020: fur_sach
+    100022: fur_Tab
+    100024: fur_TV 4K Bravia x900C
+    400000: fur_Ban
+    400002: fur_Ban001
+    400004: fur_Bat_LOD001
+    400006: fur_minimal deco1
+    400008: //RootNode
+    400010: fur_pool chair 001
+    400012: fur_pool chair 002
+    400014: fur_pool table
+    400016: fur_Rem trong 1_LOD001
+    400018: fur_Rem1_LOD001
+    400020: fur_sach
+    400022: fur_Tab
+    400024: fur_TV 4K Bravia x900C
+    2300000: fur_Ban
+    2300002: fur_Ban001
+    2300004: fur_Bat_LOD001
+    2300006: fur_minimal deco1
+    2300008: fur_pool chair 001
+    2300010: fur_pool chair 002
+    2300012: fur_pool table
+    2300014: fur_Rem trong 1_LOD001
+    2300016: fur_Rem1_LOD001
+    2300018: fur_sach
+    2300020: fur_Tab
+    2300022: fur_TV 4K Bravia x900C
+    3300000: fur_Ban
+    3300002: fur_Ban001
+    3300004: fur_Bat_LOD001
+    3300006: fur_minimal deco1
+    3300008: fur_pool chair 001
+    3300010: fur_pool chair 002
+    3300012: fur_pool table
+    3300014: fur_Rem trong 1_LOD001
+    3300016: fur_Rem1_LOD001
+    3300018: fur_sach
+    3300020: fur_Tab
+    3300022: fur_TV 4K Bravia x900C
+    4300000: fur_sach
+    4300002: fur_Ban001
+    4300004: fur_pool table
+    4300006: fur_pool chair 002
+    4300008: fur_minimal deco1
+    4300010: fur_TV 4K Bravia x900C
+    4300012: fur_Tab
+    4300014: fur_Rem1_LOD001
+    4300016: fur_Rem trong 1_LOD001
+    4300018: fur_Bat_LOD001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

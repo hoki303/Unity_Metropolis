@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 97e3eb25d425d254c8864996783380a0
+timeCreated: 1516609084
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cMat_Armchair 1
+    100002: cMat_Armchair 2
+    100004: cMat_Armchair 3
+    100006: cMat_Ban pk 1
+    100008: cMat_Ban pk 2
+    100010: cMat_Ban pk 3
+    100012: cMat_Bench 1
+    100014: cMat_Bench 2
+    100016: cMat_Bench 3
+    100018: cMat_Da' ke TV 1
+    100020: cMat_Da' ke TV 2
+    100022: cMat_Da' ke TV 3
+    100024: cMat_Den cay 1
+    100026: cMat_Den cay 2
+    100028: cMat_Den cay 3
+    100030: //RootNode
+    100032: cMat_Sofa 1
+    100034: cMat_Sofa 2
+    100036: cMat_Sofa 3
+    400000: cMat_Armchair 1
+    400002: cMat_Armchair 2
+    400004: cMat_Armchair 3
+    400006: cMat_Ban pk 1
+    400008: cMat_Ban pk 2
+    400010: cMat_Ban pk 3
+    400012: cMat_Bench 1
+    400014: cMat_Bench 2
+    400016: cMat_Bench 3
+    400018: cMat_Da' ke TV 1
+    400020: cMat_Da' ke TV 2
+    400022: cMat_Da' ke TV 3
+    400024: cMat_Den cay 1
+    400026: cMat_Den cay 2
+    400028: cMat_Den cay 3
+    400030: //RootNode
+    400032: cMat_Sofa 1
+    400034: cMat_Sofa 2
+    400036: cMat_Sofa 3
+    2300000: cMat_Armchair 1
+    2300002: cMat_Armchair 2
+    2300004: cMat_Armchair 3
+    2300006: cMat_Ban pk 1
+    2300008: cMat_Ban pk 2
+    2300010: cMat_Ban pk 3
+    2300012: cMat_Bench 1
+    2300014: cMat_Bench 2
+    2300016: cMat_Bench 3
+    2300018: cMat_Da' ke TV 1
+    2300020: cMat_Da' ke TV 2
+    2300022: cMat_Da' ke TV 3
+    2300024: cMat_Den cay 1
+    2300026: cMat_Den cay 2
+    2300028: cMat_Den cay 3
+    2300030: cMat_Sofa 1
+    2300032: cMat_Sofa 2
+    2300034: cMat_Sofa 3
+    3300000: cMat_Armchair 1
+    3300002: cMat_Armchair 2
+    3300004: cMat_Armchair 3
+    3300006: cMat_Ban pk 1
+    3300008: cMat_Ban pk 2
+    3300010: cMat_Ban pk 3
+    3300012: cMat_Bench 1
+    3300014: cMat_Bench 2
+    3300016: cMat_Bench 3
+    3300018: cMat_Da' ke TV 1
+    3300020: cMat_Da' ke TV 2
+    3300022: cMat_Da' ke TV 3
+    3300024: cMat_Den cay 1
+    3300026: cMat_Den cay 2
+    3300028: cMat_Den cay 3
+    3300030: cMat_Sofa 1
+    3300032: cMat_Sofa 2
+    3300034: cMat_Sofa 3
+    4300000: cMat_Ban pk 1
+    4300002: cMat_Da' ke TV 1
+    4300004: cMat_Armchair 1
+    4300006: cMat_Bench 1
+    4300008: cMat_Den cay 1
+    4300010: cMat_Sofa 1
+    4300012: cMat_Sofa 2
+    4300014: cMat_Sofa 3
+    4300016: cMat_Den cay 2
+    4300018: cMat_Den cay 3
+    4300020: cMat_Ban pk 2
+    4300022: cMat_Ban pk 3
+    4300024: cMat_Bench 2
+    4300026: cMat_Bench 3
+    4300028: cMat_Armchair 2
+    4300030: cMat_Armchair 3
+    4300032: cMat_Da' ke TV 2
+    4300034: cMat_Da' ke TV 3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

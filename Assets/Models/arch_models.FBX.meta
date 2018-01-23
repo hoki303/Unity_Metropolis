@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: 3997edec1bfd3b84a847083fd12823d0
+timeCreated: 1516613841
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arch_be boi
+    100002: arch_Cua kinh 000
+    100004: arch_Cua kinh 001
+    100006: arch_Cua kinh 002
+    100008: arch_Cua kinh 003
+    100010: arch_Cua kinh 004
+    100012: arch_Cua kinh 005
+    100014: arch_Cua kinh 012
+    100016: arch_Cua kinh 016
+    100018: arch_Cua kinh 017
+    100020: arch_Cua kinh 018
+    100022: arch_Cua kinh 019
+    100024: arch_Cua kinh 020
+    100026: arch_Cua kinh 022
+    100028: arch_Cua kinh 023
+    100030: arch_Cua kinh truot
+    100032: arch_Cua phong010
+    100034: arch_Cua phong011
+    100036: arch_Cua phong012
+    100038: arch_Day bed_LOD001
+    100040: arch_Den chum
+    100042: arch_Den tron khe tran
+    100044: arch_dowlight doi 000
+    100046: arch_dowlight doi 001
+    100048: arch_dowlight doi 002
+    100050: arch_dowlight doi 004
+    100052: arch_dowlight doi 005
+    100054: arch_dowlight tron 000
+    100056: arch_dowlight tron 001
+    100058: arch_dowlight tron 002
+    100060: arch_dowlight tron 003
+    100062: arch_dowlight tron 004
+    100064: arch_dowlight tron 005
+    100066: arch_dowlight tron 006
+    100068: arch_dowlight tron 007
+    100070: arch_dowlight tron 008
+    100072: arch_dowlight tron 009
+    100074: arch_dowlight tron 010
+    100076: arch_dowlight tron 011
+    100078: arch_dowlight000
+    100080: arch_dowlight001
+    100082: arch_dowlight002
+    100084: arch_dowlight003
+    100086: arch_dowlight004
+    100088: arch_dowlight005
+    100090: arch_dowlight006
+    100092: arch_dowlight007
+    100094: arch_dowlight008
+    100096: arch_Gia do
+    100098: arch_Khe thu hoi nuoc
+    100100: arch_lan can kinh
+    100102: //RootNode
+    100104: arch_Nen tang 1
+    100106: arch_Nen tang 2
+    100108: arch_Nuoc be boi
+    100110: arch_panel
+    100112: arch_ranh nuoc
+    100114: arch_san go
+    100116: arch_Stair1
+    100118: arch_Stair2
+    100120: arch_Tran tang 3
+    100122: arch_Tran thach cao
+    100124: arch_Tran thach cao001
+    100126: arch_tranh to
+    100128: arch_Tu quan ao
+    100130: arch_Tuong go
+    100132: arch_Tuong tang 1
+    100134: arch_tuong tang 2
+    100136: arch_Tuong them
+    400000: arch_be boi
+    400002: arch_Cua kinh 000
+    400004: arch_Cua kinh 001
+    400006: arch_Cua kinh 002
+    400008: arch_Cua kinh 003
+    400010: arch_Cua kinh 004
+    400012: arch_Cua kinh 005
+    400014: arch_Cua kinh 012
+    400016: arch_Cua kinh 016
+    400018: arch_Cua kinh 017
+    400020: arch_Cua kinh 018
+    400022: arch_Cua kinh 019
+    400024: arch_Cua kinh 020
+    400026: arch_Cua kinh 022
+    400028: arch_Cua kinh 023
+    400030: arch_Cua kinh truot
+    400032: arch_Cua phong010
+    400034: arch_Cua phong011
+    400036: arch_Cua phong012
+    400038: arch_Day bed_LOD001
+    400040: arch_Den chum
+    400042: arch_Den tron khe tran
+    400044: arch_dowlight doi 000
+    400046: arch_dowlight doi 001
+    400048: arch_dowlight doi 002
+    400050: arch_dowlight doi 004
+    400052: arch_dowlight doi 005
+    400054: arch_dowlight tron 000
+    400056: arch_dowlight tron 001
+    400058: arch_dowlight tron 002
+    400060: arch_dowlight tron 003
+    400062: arch_dowlight tron 004
+    400064: arch_dowlight tron 005
+    400066: arch_dowlight tron 006
+    400068: arch_dowlight tron 007
+    400070: arch_dowlight tron 008
+    400072: arch_dowlight tron 009
+    400074: arch_dowlight tron 010
+    400076: arch_dowlight tron 011
+    400078: arch_dowlight000
+    400080: arch_dowlight001
+    400082: arch_dowlight002
+    400084: arch_dowlight003
+    400086: arch_dowlight004
+    400088: arch_dowlight005
+    400090: arch_dowlight006
+    400092: arch_dowlight007
+    400094: arch_dowlight008
+    400096: arch_Gia do
+    400098: arch_Khe thu hoi nuoc
+    400100: arch_lan can kinh
+    400102: //RootNode
+    400104: arch_Nen tang 1
+    400106: arch_Nen tang 2
+    400108: arch_Nuoc be boi
+    400110: arch_panel
+    400112: arch_ranh nuoc
+    400114: arch_san go
+    400116: arch_Stair1
+    400118: arch_Stair2
+    400120: arch_Tran tang 3
+    400122: arch_Tran thach cao
+    400124: arch_Tran thach cao001
+    400126: arch_tranh to
+    400128: arch_Tu quan ao
+    400130: arch_Tuong go
+    400132: arch_Tuong tang 1
+    400134: arch_tuong tang 2
+    400136: arch_Tuong them
+    2300000: arch_be boi
+    2300002: arch_Cua kinh 000
+    2300004: arch_Cua kinh 001
+    2300006: arch_Cua kinh 002
+    2300008: arch_Cua kinh 003
+    2300010: arch_Cua kinh 004
+    2300012: arch_Cua kinh 005
+    2300014: arch_Cua kinh 012
+    2300016: arch_Cua kinh 016
+    2300018: arch_Cua kinh 017
+    2300020: arch_Cua kinh 018
+    2300022: arch_Cua kinh 019
+    2300024: arch_Cua kinh 020
+    2300026: arch_Cua kinh 022
+    2300028: arch_Cua kinh 023
+    2300030: arch_Cua kinh truot
+    2300032: arch_Cua phong010
+    2300034: arch_Cua phong011
+    2300036: arch_Cua phong012
+    2300038: arch_Day bed_LOD001
+    2300040: arch_Den chum
+    2300042: arch_Den tron khe tran
+    2300044: arch_dowlight doi 000
+    2300046: arch_dowlight doi 001
+    2300048: arch_dowlight doi 002
+    2300050: arch_dowlight doi 004
+    2300052: arch_dowlight doi 005
+    2300054: arch_dowlight tron 000
+    2300056: arch_dowlight tron 001
+    2300058: arch_dowlight tron 002
+    2300060: arch_dowlight tron 003
+    2300062: arch_dowlight tron 004
+    2300064: arch_dowlight tron 005
+    2300066: arch_dowlight tron 006
+    2300068: arch_dowlight tron 007
+    2300070: arch_dowlight tron 008
+    2300072: arch_dowlight tron 009
+    2300074: arch_dowlight tron 010
+    2300076: arch_dowlight tron 011
+    2300078: arch_dowlight000
+    2300080: arch_dowlight001
+    2300082: arch_dowlight002
+    2300084: arch_dowlight003
+    2300086: arch_dowlight004
+    2300088: arch_dowlight005
+    2300090: arch_dowlight006
+    2300092: arch_dowlight007
+    2300094: arch_dowlight008
+    2300096: arch_Gia do
+    2300098: arch_Khe thu hoi nuoc
+    2300100: arch_lan can kinh
+    2300102: arch_Nen tang 1
+    2300104: arch_Nen tang 2
+    2300106: arch_Nuoc be boi
+    2300108: arch_panel
+    2300110: arch_ranh nuoc
+    2300112: arch_san go
+    2300114: arch_Stair1
+    2300116: arch_Stair2
+    2300118: arch_Tran tang 3
+    2300120: arch_Tran thach cao
+    2300122: arch_Tran thach cao001
+    2300124: arch_tranh to
+    2300126: arch_Tu quan ao
+    2300128: arch_Tuong go
+    2300130: arch_Tuong tang 1
+    2300132: arch_tuong tang 2
+    2300134: arch_Tuong them
+    3300000: arch_be boi
+    3300002: arch_Cua kinh 000
+    3300004: arch_Cua kinh 001
+    3300006: arch_Cua kinh 002
+    3300008: arch_Cua kinh 003
+    3300010: arch_Cua kinh 004
+    3300012: arch_Cua kinh 005
+    3300014: arch_Cua kinh 012
+    3300016: arch_Cua kinh 016
+    3300018: arch_Cua kinh 017
+    3300020: arch_Cua kinh 018
+    3300022: arch_Cua kinh 019
+    3300024: arch_Cua kinh 020
+    3300026: arch_Cua kinh 022
+    3300028: arch_Cua kinh 023
+    3300030: arch_Cua kinh truot
+    3300032: arch_Cua phong010
+    3300034: arch_Cua phong011
+    3300036: arch_Cua phong012
+    3300038: arch_Day bed_LOD001
+    3300040: arch_Den chum
+    3300042: arch_Den tron khe tran
+    3300044: arch_dowlight doi 000
+    3300046: arch_dowlight doi 001
+    3300048: arch_dowlight doi 002
+    3300050: arch_dowlight doi 004
+    3300052: arch_dowlight doi 005
+    3300054: arch_dowlight tron 000
+    3300056: arch_dowlight tron 001
+    3300058: arch_dowlight tron 002
+    3300060: arch_dowlight tron 003
+    3300062: arch_dowlight tron 004
+    3300064: arch_dowlight tron 005
+    3300066: arch_dowlight tron 006
+    3300068: arch_dowlight tron 007
+    3300070: arch_dowlight tron 008
+    3300072: arch_dowlight tron 009
+    3300074: arch_dowlight tron 010
+    3300076: arch_dowlight tron 011
+    3300078: arch_dowlight000
+    3300080: arch_dowlight001
+    3300082: arch_dowlight002
+    3300084: arch_dowlight003
+    3300086: arch_dowlight004
+    3300088: arch_dowlight005
+    3300090: arch_dowlight006
+    3300092: arch_dowlight007
+    3300094: arch_dowlight008
+    3300096: arch_Gia do
+    3300098: arch_Khe thu hoi nuoc
+    3300100: arch_lan can kinh
+    3300102: arch_Nen tang 1
+    3300104: arch_Nen tang 2
+    3300106: arch_Nuoc be boi
+    3300108: arch_panel
+    3300110: arch_ranh nuoc
+    3300112: arch_san go
+    3300114: arch_Stair1
+    3300116: arch_Stair2
+    3300118: arch_Tran tang 3
+    3300120: arch_Tran thach cao
+    3300122: arch_Tran thach cao001
+    3300124: arch_tranh to
+    3300126: arch_Tu quan ao
+    3300128: arch_Tuong go
+    3300130: arch_Tuong tang 1
+    3300132: arch_tuong tang 2
+    3300134: arch_Tuong them
+    4300000: arch_Cua kinh truot
+    4300002: arch_panel
+    4300004: arch_Den tron khe tran
+    4300006: arch_dowlight doi 005
+    4300008: arch_dowlight tron 011
+    4300010: arch_Tran thach cao001
+    4300012: arch_Den chum
+    4300014: arch_Tran thach cao
+    4300016: arch_dowlight008
+    4300018: arch_san go
+    4300020: arch_Cua kinh 012
+    4300022: arch_Tu quan ao
+    4300024: arch_Cua kinh 019
+    4300026: arch_Cua kinh 023
+    4300028: arch_Tuong go
+    4300030: arch_Stair2
+    4300032: arch_Stair1
+    4300034: arch_lan can kinh
+    4300036: arch_Gia do
+    4300038: arch_Cua kinh 022
+    4300040: arch_Cua kinh 020
+    4300042: arch_Cua kinh 018
+    4300044: arch_Cua kinh 017
+    4300046: arch_Cua kinh 016
+    4300048: arch_Cua kinh 003
+    4300050: arch_Cua kinh 002
+    4300052: arch_Tran tang 3
+    4300054: arch_Nen tang 2
+    4300056: arch_Cua phong011
+    4300058: arch_Cua phong010
+    4300060: arch_be boi
+    4300062: arch_ranh nuoc
+    4300064: arch_Nen tang 1
+    4300066: arch_Tuong tang 1
+    4300068: arch_tuong tang 2
+    4300070: arch_tranh to
+    4300072: arch_Tuong them
+    4300074: arch_Khe thu hoi nuoc
+    4300076: arch_Nuoc be boi
+    4300078: arch_Day bed_LOD001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

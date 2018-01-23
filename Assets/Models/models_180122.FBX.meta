@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: 255fafb1095a6e242a5eb9f0f3951932
+timeCreated: 1516589082
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ban
+    100002: Ban001
+    100004: Bat_LOD001
+    100006: be boi
+    100008: carpet09-00
+    100010: carpet09-01
+    100012: Cua kinh 000
+    100014: Cua kinh 001
+    100016: Cua kinh 002
+    100018: Cua kinh 003
+    100020: Cua kinh 004
+    100022: Cua kinh 005
+    100024: Cua kinh 012
+    100026: Cua kinh 016
+    100028: Cua kinh 017
+    100030: Cua kinh 018
+    100032: Cua kinh 019
+    100034: Cua kinh 020
+    100036: Cua kinh 022
+    100038: Cua kinh 023
+    100040: Cua kinh truot
+    100042: Cua phong010
+    100044: Cua phong011
+    100046: Cua phong012
+    100048: Day bed_LOD001
+    100050: Den cay 1
+    100052: Den chum
+    100054: Den tron khe tran
+    100056: dowlight doi 000
+    100058: dowlight doi 001
+    100060: dowlight doi 002
+    100062: dowlight doi 004
+    100064: dowlight doi 005
+    100066: dowlight tron 000
+    100068: dowlight tron 001
+    100070: dowlight tron 002
+    100072: dowlight tron 003
+    100074: dowlight tron 004
+    100076: dowlight tron 005
+    100078: dowlight tron 006
+    100080: dowlight tron 007
+    100082: dowlight tron 008
+    100084: dowlight tron 009
+    100086: dowlight tron 010
+    100088: dowlight tron 011
+    100090: dowlight000
+    100092: dowlight001
+    100094: dowlight002
+    100096: dowlight003
+    100098: dowlight004
+    100100: dowlight005
+    100102: dowlight006
+    100104: dowlight007
+    100106: dowlight008
+    100108: Gia do
+    100110: Khe thu hoi nuoc
+    100112: lan can kinh
+    100114: minimal deco1
+    100116: //RootNode
+    100118: Nen tang 1
+    100120: Nen tang 2
+    100122: Nuoc be boi
+    100124: panel
+    100126: pool chair 001
+    100128: pool chair 002
+    100130: pool table
+    100132: ranh nuoc
+    100134: Rem trong 1_LOD001
+    100136: Rem1_LOD001
+    100138: sach
+    100140: San gach
+    100142: San gach beboi
+    100144: san go
+    100146: Stair1
+    100148: Stair2
+    100150: Tab
+    100152: Tran tang 3
+    100154: Tran thach cao
+    100156: Tran thach cao001
+    100158: tranh to
+    100160: Tu quan ao
+    100162: Tuong go
+    100164: Tuong tang 1
+    100166: tuong tang 2
+    100168: Tuong them
+    100170: TV 4K Bravia x900C
+    400000: Ban
+    400002: Ban001
+    400004: Bat_LOD001
+    400006: be boi
+    400008: carpet09-00
+    400010: carpet09-01
+    400012: Cua kinh 000
+    400014: Cua kinh 001
+    400016: Cua kinh 002
+    400018: Cua kinh 003
+    400020: Cua kinh 004
+    400022: Cua kinh 005
+    400024: Cua kinh 012
+    400026: Cua kinh 016
+    400028: Cua kinh 017
+    400030: Cua kinh 018
+    400032: Cua kinh 019
+    400034: Cua kinh 020
+    400036: Cua kinh 022
+    400038: Cua kinh 023
+    400040: Cua kinh truot
+    400042: Cua phong010
+    400044: Cua phong011
+    400046: Cua phong012
+    400048: Day bed_LOD001
+    400050: Den cay 1
+    400052: Den chum
+    400054: Den tron khe tran
+    400056: dowlight doi 000
+    400058: dowlight doi 001
+    400060: dowlight doi 002
+    400062: dowlight doi 004
+    400064: dowlight doi 005
+    400066: dowlight tron 000
+    400068: dowlight tron 001
+    400070: dowlight tron 002
+    400072: dowlight tron 003
+    400074: dowlight tron 004
+    400076: dowlight tron 005
+    400078: dowlight tron 006
+    400080: dowlight tron 007
+    400082: dowlight tron 008
+    400084: dowlight tron 009
+    400086: dowlight tron 010
+    400088: dowlight tron 011
+    400090: dowlight000
+    400092: dowlight001
+    400094: dowlight002
+    400096: dowlight003
+    400098: dowlight004
+    400100: dowlight005
+    400102: dowlight006
+    400104: dowlight007
+    400106: dowlight008
+    400108: Gia do
+    400110: Khe thu hoi nuoc
+    400112: lan can kinh
+    400114: minimal deco1
+    400116: //RootNode
+    400118: Nen tang 1
+    400120: Nen tang 2
+    400122: Nuoc be boi
+    400124: panel
+    400126: pool chair 001
+    400128: pool chair 002
+    400130: pool table
+    400132: ranh nuoc
+    400134: Rem trong 1_LOD001
+    400136: Rem1_LOD001
+    400138: sach
+    400140: San gach
+    400142: San gach beboi
+    400144: san go
+    400146: Stair1
+    400148: Stair2
+    400150: Tab
+    400152: Tran tang 3
+    400154: Tran thach cao
+    400156: Tran thach cao001
+    400158: tranh to
+    400160: Tu quan ao
+    400162: Tuong go
+    400164: Tuong tang 1
+    400166: tuong tang 2
+    400168: Tuong them
+    400170: TV 4K Bravia x900C
+    2300000: Ban
+    2300002: Ban001
+    2300004: Bat_LOD001
+    2300006: be boi
+    2300008: carpet09-00
+    2300010: carpet09-01
+    2300012: Cua kinh 000
+    2300014: Cua kinh 001
+    2300016: Cua kinh 002
+    2300018: Cua kinh 003
+    2300020: Cua kinh 004
+    2300022: Cua kinh 005
+    2300024: Cua kinh 012
+    2300026: Cua kinh 016
+    2300028: Cua kinh 017
+    2300030: Cua kinh 018
+    2300032: Cua kinh 019
+    2300034: Cua kinh 020
+    2300036: Cua kinh 022
+    2300038: Cua kinh 023
+    2300040: Cua kinh truot
+    2300042: Cua phong010
+    2300044: Cua phong011
+    2300046: Cua phong012
+    2300048: Day bed_LOD001
+    2300050: Den cay 1
+    2300052: Den chum
+    2300054: Den tron khe tran
+    2300056: dowlight doi 000
+    2300058: dowlight doi 001
+    2300060: dowlight doi 002
+    2300062: dowlight doi 004
+    2300064: dowlight doi 005
+    2300066: dowlight tron 000
+    2300068: dowlight tron 001
+    2300070: dowlight tron 002
+    2300072: dowlight tron 003
+    2300074: dowlight tron 004
+    2300076: dowlight tron 005
+    2300078: dowlight tron 006
+    2300080: dowlight tron 007
+    2300082: dowlight tron 008
+    2300084: dowlight tron 009
+    2300086: dowlight tron 010
+    2300088: dowlight tron 011
+    2300090: dowlight000
+    2300092: dowlight001
+    2300094: dowlight002
+    2300096: dowlight003
+    2300098: dowlight004
+    2300100: dowlight005
+    2300102: dowlight006
+    2300104: dowlight007
+    2300106: dowlight008
+    2300108: Gia do
+    2300110: Khe thu hoi nuoc
+    2300112: lan can kinh
+    2300114: minimal deco1
+    2300116: Nen tang 1
+    2300118: Nen tang 2
+    2300120: Nuoc be boi
+    2300122: panel
+    2300124: pool chair 001
+    2300126: pool chair 002
+    2300128: pool table
+    2300130: ranh nuoc
+    2300132: Rem trong 1_LOD001
+    2300134: Rem1_LOD001
+    2300136: sach
+    2300138: San gach
+    2300140: San gach beboi
+    2300142: san go
+    2300144: Stair1
+    2300146: Stair2
+    2300148: Tab
+    2300150: Tran tang 3
+    2300152: Tran thach cao
+    2300154: Tran thach cao001
+    2300156: tranh to
+    2300158: Tu quan ao
+    2300160: Tuong go
+    2300162: Tuong tang 1
+    2300164: tuong tang 2
+    2300166: Tuong them
+    2300168: TV 4K Bravia x900C
+    3300000: Ban
+    3300002: Ban001
+    3300004: Bat_LOD001
+    3300006: be boi
+    3300008: carpet09-00
+    3300010: carpet09-01
+    3300012: Cua kinh 000
+    3300014: Cua kinh 001
+    3300016: Cua kinh 002
+    3300018: Cua kinh 003
+    3300020: Cua kinh 004
+    3300022: Cua kinh 005
+    3300024: Cua kinh 012
+    3300026: Cua kinh 016
+    3300028: Cua kinh 017
+    3300030: Cua kinh 018
+    3300032: Cua kinh 019
+    3300034: Cua kinh 020
+    3300036: Cua kinh 022
+    3300038: Cua kinh 023
+    3300040: Cua kinh truot
+    3300042: Cua phong010
+    3300044: Cua phong011
+    3300046: Cua phong012
+    3300048: Day bed_LOD001
+    3300050: Den cay 1
+    3300052: Den chum
+    3300054: Den tron khe tran
+    3300056: dowlight doi 000
+    3300058: dowlight doi 001
+    3300060: dowlight doi 002
+    3300062: dowlight doi 004
+    3300064: dowlight doi 005
+    3300066: dowlight tron 000
+    3300068: dowlight tron 001
+    3300070: dowlight tron 002
+    3300072: dowlight tron 003
+    3300074: dowlight tron 004
+    3300076: dowlight tron 005
+    3300078: dowlight tron 006
+    3300080: dowlight tron 007
+    3300082: dowlight tron 008
+    3300084: dowlight tron 009
+    3300086: dowlight tron 010
+    3300088: dowlight tron 011
+    3300090: dowlight000
+    3300092: dowlight001
+    3300094: dowlight002
+    3300096: dowlight003
+    3300098: dowlight004
+    3300100: dowlight005
+    3300102: dowlight006
+    3300104: dowlight007
+    3300106: dowlight008
+    3300108: Gia do
+    3300110: Khe thu hoi nuoc
+    3300112: lan can kinh
+    3300114: minimal deco1
+    3300116: Nen tang 1
+    3300118: Nen tang 2
+    3300120: Nuoc be boi
+    3300122: panel
+    3300124: pool chair 001
+    3300126: pool chair 002
+    3300128: pool table
+    3300130: ranh nuoc
+    3300132: Rem trong 1_LOD001
+    3300134: Rem1_LOD001
+    3300136: sach
+    3300138: San gach
+    3300140: San gach beboi
+    3300142: san go
+    3300144: Stair1
+    3300146: Stair2
+    3300148: Tab
+    3300150: Tran tang 3
+    3300152: Tran thach cao
+    3300154: Tran thach cao001
+    3300156: tranh to
+    3300158: Tu quan ao
+    3300160: Tuong go
+    3300162: Tuong tang 1
+    3300164: tuong tang 2
+    3300166: Tuong them
+    3300168: TV 4K Bravia x900C
+    4300000: sach
+    4300002: Ban001
+    4300004: Ban
+    4300006: pool table
+    4300008: pool chair 002
+    4300010: pool chair 001
+    4300012: Cua kinh truot
+    4300014: minimal deco1
+    4300016: TV 4K Bravia x900C
+    4300018: panel
+    4300020: Den tron khe tran
+    4300022: dowlight doi 005
+    4300024: dowlight doi 004
+    4300026: dowlight doi 002
+    4300028: dowlight doi 001
+    4300030: dowlight doi 000
+    4300032: Tab
+    4300034: dowlight tron 011
+    4300036: dowlight tron 010
+    4300038: dowlight tron 009
+    4300040: dowlight tron 008
+    4300042: dowlight tron 007
+    4300044: dowlight tron 006
+    4300046: dowlight tron 005
+    4300048: dowlight tron 004
+    4300050: dowlight tron 003
+    4300052: dowlight tron 002
+    4300054: dowlight tron 001
+    4300056: dowlight tron 000
+    4300058: Tran thach cao001
+    4300060: Den chum
+    4300062: Tran thach cao
+    4300064: dowlight008
+    4300066: dowlight007
+    4300068: dowlight006
+    4300070: dowlight005
+    4300072: dowlight004
+    4300074: dowlight003
+    4300076: dowlight002
+    4300078: dowlight001
+    4300080: dowlight000
+    4300082: san go
+    4300084: San gach beboi
+    4300086: San gach
+    4300088: Cua kinh 012
+    4300090: Tu quan ao
+    4300092: Cua kinh 019
+    4300094: Cua kinh 001
+    4300096: Cua kinh 023
+    4300098: Tuong go
+    4300100: Stair2
+    4300102: Stair1
+    4300104: lan can kinh
+    4300106: Gia do
+    4300108: Cua kinh 022
+    4300110: Cua kinh 020
+    4300112: Cua kinh 018
+    4300114: Cua kinh 017
+    4300116: Cua kinh 016
+    4300118: Cua kinh 005
+    4300120: Cua kinh 004
+    4300122: Cua kinh 003
+    4300124: Cua kinh 002
+    4300126: Cua kinh 000
+    4300128: Tran tang 3
+    4300130: Nen tang 2
+    4300132: Cua phong011
+    4300134: Cua phong010
+    4300136: be boi
+    4300138: ranh nuoc
+    4300140: Nen tang 1
+    4300142: Tuong tang 1
+    4300144: tuong tang 2
+    4300146: tranh to
+    4300148: Tuong them
+    4300150: Khe thu hoi nuoc
+    4300152: Nuoc be boi
+    4300154: Den cay 1
+    4300156: Day bed_LOD001
+    4300158: Rem1_LOD001
+    4300160: Rem trong 1_LOD001
+    4300162: Bat_LOD001
+    4300164: Cua phong012
+    4300166: carpet09-00
+    4300168: carpet09-01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
